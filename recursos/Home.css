@@ -1,0 +1,24 @@
+#main-header {
+    background: #333;
+    color: white;
+    height: 80px;
+
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+}
+#main-footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+#main-footer p {
+    margin: 0;
+}
+
+#main-footer a {
+    color: white;
+}
